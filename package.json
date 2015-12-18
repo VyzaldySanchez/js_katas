@@ -4,7 +4,8 @@
   "description": "Katas made in JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "gulp mocha-test",
+    "test-watch": "gulp"
   },
   "keywords": [
     "JavaScript",
