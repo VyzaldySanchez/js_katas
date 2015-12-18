@@ -1,0 +1,23 @@
+{
+  "name": "js_katas",
+  "version": "1.0.0",
+  "description": "Katas made in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node.js",
+    "Katas",
+    "Mocha.js"
+  ],
+  "author": "Vyzaldy Andres Sanchez",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^1.3.0",
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-notify": "^2.2.0"
+  }
+}
