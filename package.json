@@ -18,7 +18,7 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/VyzaldySanchez/js_katas.git"
-  }
+  },
   "license": "ISC",
   "devDependencies": {
     "assert": "^1.3.0",
